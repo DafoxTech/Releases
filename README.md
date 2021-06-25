@@ -1,7 +1,9 @@
 # v40.0.3
 * Support for Gcash Cash-in
-## Available Amounts
+### Available Amounts
 - 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 150, 200, 250
+
+* Exit Kiosk Mode on double press of the volume up button
 
 ---- 
 
