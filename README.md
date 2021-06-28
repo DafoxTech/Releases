@@ -1,3 +1,18 @@
+# v40.0.4
+* Disable sms notification from the Machine, to prevent consumption of machine regular load
+* Delegate sms notification to DafoxTech Gateway
+   #### The following commands that will be sent to Machine will be responded by DafoxTech. Gateway
+   - bal
+   - sales today
+   - sales yesterday
+   - sales this week
+   - sales last week
+   - sales this month
+   - sales last month
+   - Sales YYYY-MM-DD to YYYY-MM-DD
+
+---- 
+
 # v40.0.3
 * Support for Gcash Cash-in
 ### Available Amounts
