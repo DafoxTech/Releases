@@ -2,6 +2,7 @@
 * Kiosk support for smaller screen (non-tablet)
 * Set default Connection setting value to "Sms (Globe Shortcode)
 * Update default DITO denominations
+* Disable back button on pending/processing payment
 * Security updates
 
 # v40.0.4
