@@ -1,3 +1,9 @@
+# v40.0.5
+* Kiosk support for smaller screen (non-tablet)
+* Set default Connection setting value to "Sms (Globe Shortcode)
+* Update default DITO denominations
+* Security updates
+
 # v40.0.4
 * Disable sms notification from the Machine, to prevent consumption of machine regular load
 * Delegate sms notification to DafoxTech Gateway
