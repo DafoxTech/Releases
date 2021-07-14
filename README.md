@@ -1,9 +1,17 @@
+# v40.0.6
+* Added backup Short code gateway
+* Smart charging updated turn off charging when battery reached 99% and turn on charging when battery goes down to 50%.
+
+----
+
 # v40.0.5
 * Kiosk support for smaller screen (non-tablet)
 * Set default Connection setting value to "Sms (Globe Shortcode)
 * Update default DITO denominations
 * Disable back button on pending/processing payment
 * Security updates
+
+----
 
 # v40.0.4
 * Disable sms notification from the Machine, to prevent consumption of machine regular load
