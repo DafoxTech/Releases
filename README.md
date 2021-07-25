@@ -1,3 +1,10 @@
+# v40.0.7
+* Implement Auto-boot and auto shutdown
+   - for Android api v21 and later, unlock OEM and enable auto start using "fastboot oem-off-mode charge 0". Then in the app menu, select "Set Accessibility" and turn on Accessibility for Fox Eloader.
+   - for old Android KITKAT, just open the menu and select "Restart Machine". Next time the android is turned off and plugged in, it will auto boot
+
+----
+
 # v40.0.6
 * Added backup Short code gateway
 * Smart charging updated turn off charging when battery reached 99% and turn on charging when battery goes down to 50%.
