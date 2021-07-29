@@ -1,6 +1,6 @@
 # v40.0.8
 * Disallow load purchase on network/telco downtime
-* Auto-enable load purchase when network/telco uptime
+* Auto-enable load purchase on network/telco uptime
 
 ----
 
