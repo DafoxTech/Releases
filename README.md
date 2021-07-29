@@ -1,3 +1,9 @@
+# v40.0.8
+* Disallow load purchase on network/telco downtime
+* Auto-enable load purchase when network/telco uptime
+
+----
+
 # v40.0.7
 * Implement Auto-boot and auto shutdown
    - for Android api v21 and later, unlock OEM and enable auto start using "fastboot oem-off-mode charge 0". Then in the app menu, select "Set Accessibility" and turn on Accessibility for Fox Eloader.
