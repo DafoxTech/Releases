@@ -1,3 +1,6 @@
+# v40.0.9
+* FIX serious security vulnerability
+
 # v40.0.8
 * Disallow load purchase on network/telco downtime
 * Auto-enable load purchase on network/telco uptime
