@@ -1,5 +1,18 @@
+# v40.1.0
+* New Gcash amounts AVAILABLE
+   - GCASH500, GCASH800, GCASH1000
+   - System Transaction fee would be 1.5% + 5
+     _(1.5% is the rebates that was added to your account when you replenish your wallet)_
+      Fox example, you will set the price in your machine to:
+      GCASH500 = 500 + 7.5[1.5%] + 5[system fee] + 10 [your profit]
+      GCASH800 = 500 + 12[1.5%] + 5[system fee] + 10 [your profit]
+
+----
+      
 # v40.0.9
 * FIX serious security vulnerability
+
+----
 
 # v40.0.8
 * Disallow load purchase on network/telco downtime
