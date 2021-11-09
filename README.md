@@ -1,3 +1,8 @@
+# v40.1.2
+* Added new Globe Short code gateway
+_Go to Top-right menu and then click **Connection Setting** and select **SMS (GLOBE Short code 2)**_ 
+
+
 # v40.1.0
 * New Gcash amounts AVAILABLE
    - GCASH500, GCASH800, GCASH1000
