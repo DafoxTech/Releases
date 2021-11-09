@@ -1,5 +1,6 @@
 # v40.1.2
 * Added new Globe Short code gateway
+
 _Go to Top-right menu and then click **Connection Setting** and select **SMS (GLOBE Short code 2)**_ 
 
 
