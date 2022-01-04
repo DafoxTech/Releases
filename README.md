@@ -1,3 +1,7 @@
+# v40.1.3
+* Updated GSM gateway numbers
+
+
 # v40.1.2
 * Added new Globe Short code gateway
 
