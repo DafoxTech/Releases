@@ -1,5 +1,5 @@
 # v40.1.4
-* FIXES unconfirmed transaction caused by an update from telco that affects some of our machines
+* FIXES unconfirmed transactions caused by an update from telco that affects some of our machines
 
 
 # v40.1.3
