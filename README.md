@@ -1,3 +1,7 @@
+# v40.1.4
+* FIXES unconfirmed transaction caused by an update from telco that affects some of our machines
+
+
 # v40.1.3
 * Updated GSM gateway numbers
 
