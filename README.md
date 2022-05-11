@@ -1,3 +1,8 @@
+
+# v40.1.5
+* Add confirmation/prompt when selecting eload promo
+
+
 # v40.1.4
 * FIXES unconfirmed transactions caused by an update from telco that affects some of our machines
 
