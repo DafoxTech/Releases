@@ -1,4 +1,8 @@
 
+# v40.1.6
+* implement handler for gateway downtime - disable kiosk purchase when there's 2 or more pending transactions.
+
+
 # v40.1.5
 * Add confirmation/prompt when selecting eload promo
 
