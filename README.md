@@ -1,3 +1,14 @@
+# v40.1.7
+* Disable pending transaction checking if **Internet Connection** is used
+* Bugfixes and optimizations
+
+* After installing this version, please update the eload products using the following steps:
+
+1.  Make sure that the tablet is connected to the internet via Wifi or Data connection
+2. Go to Fox Eloading app **Top-right** menu (3 dots).
+3. Select **Eload Products**
+4. Tap or click the circle button with rotating arrow icon. Tap YES on the prompt.
+5. Wait for the success message
 
 # v40.1.6
 * implement handler for gateway downtime - disable kiosk purchase when there's 2 or more pending transactions.
