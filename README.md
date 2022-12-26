@@ -2,7 +2,7 @@
 * Disable pending transaction checking if **Internet Connection** is used
 * Bugfixes and optimizations
 
-* After installing this version, please update the eload products using the following steps:
+After installing this version, please update the eload products using the following steps:
 
 1.  Make sure that the tablet is connected to the internet via Wifi or Data connection
 2. Go to Fox Eloading app **Top-right** menu (3 dots).
