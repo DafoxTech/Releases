@@ -1,3 +1,8 @@
+# v40.1.9
+- Exit kiosk button click trigger changes
+   * From double press volume+ changed to double press power and then volume+
+   
+   
 # v40.1.7
 * Disable pending transaction checking if **Internet Connection** is used
 * Bugfixes and optimizations
