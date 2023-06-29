@@ -1,4 +1,4 @@
-# android-v40.2.1 Latest
+# v40.2.1
 * Fixes transaction sending error marked as incomplete
 
 # v40.2.0
