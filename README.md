@@ -1,3 +1,6 @@
+# android-v40.2.1 Latest
+* Fixes transaction sending error marked as incomplete
+
 # v40.2.0
 * added auto-shutdown (no-prompt) on selected android models (Android API version 21)
    - This will be usable in case of power outage to prevent draining of android battery.
