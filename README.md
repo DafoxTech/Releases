@@ -1,3 +1,19 @@
+# v40.3.0
+* Added Maya cash-in service
+* Enhancements & security fixes
+* Enhanced product syncing
+   - you can now set pricing per provider denominations and they will reflect on your machines pricing after a successful products syncing
+* New machine command: sync eload-products
+   - Trigger the machine to fetch updated eload products and denomination pricings
+   - Advisable to send this command during standby-mode state when no interactions on the machine's screen.
+* Full support for internet only connection type, not dependent on sim sms.
+   - You can activate the eloading app even without sim card as long as it has stable internet.
+* New machine command: inquire-credits<space>CUSTOMER#
+   - You can send this command via messenger or viber. The system will respond to your trusted number.
+* New machine command: update-credits<space>Customer#<space>AMOUNT
+   - You can send this command via messenger or viber. This will be usable if you want to update the customer's credits, set the AMOUNT to 0 to clear credits.
+
+
 # v40.2.1
 * Fixes transaction sending error marked as incomplete
 
