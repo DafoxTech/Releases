@@ -5,6 +5,7 @@
    - you can now set pricing per provider denominations in your online portal and they will reflect on your machines pricing after a successful products syncing
 * New machine command: sync eload-products
    - You can send the command on your online portal: Licenses & E-loaders -> Eloaders, actions column "Send Command"
+   - Will only take effect on internet connection type setup.
    - Trigger the machine to fetch updated eload products and denomination pricings
    - Advisable to send this command during standby-mode state when no interactions on the machine's screen.
 * Full support for internet only connection type, not dependent on sim sms.
