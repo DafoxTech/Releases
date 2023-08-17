@@ -2,12 +2,14 @@
 * Added Maya cash-in service
 * Enhancements & security fixes
 * Enhanced product syncing
-   - you can now set pricing per provider denominations and they will reflect on your machines pricing after a successful products syncing
+   - you can now set pricing per provider denominations in your online portal and they will reflect on your machines pricing after a successful products syncing
 * New machine command: sync eload-products
+   - You can send the command on your online portal: Licenses & E-loaders -> Eloaders, actions column "Send Command"
    - Trigger the machine to fetch updated eload products and denomination pricings
    - Advisable to send this command during standby-mode state when no interactions on the machine's screen.
 * Full support for internet only connection type, not dependent on sim sms.
-   - You can activate the eloading app even without sim card as long as it has stable internet.
+   - You can activate the eloading app even without sim card as long as it has internet.
+   - For cheaper internet, sim with no expiry data promo is advisable like SMART magic data
 * New machine command: inquire-credits<space>CUSTOMER#
    - You can send this command via messenger or viber. The system will respond to your trusted number.
 * New machine command: update-credits<space>Customer#<space>AMOUNT
