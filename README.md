@@ -1,4 +1,4 @@
-# v40.3.0
+# v40.3.1
 * Added Maya cash-in
 * Enhancements & security fixes
 * Enhanced products syncing
