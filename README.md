@@ -10,6 +10,7 @@
    - Advisable to send this command during standby-mode state when no interactions on the machine's screen.
 * Full support for internet only connection type, transaction confirmation will now work via internet.
    - Sim card is still advisable for sms machine commands to take effect.
+   - For machines with sim card, please activate via Online Portal.
    - For cheaper internet, sim with no expiry data promo is advisable like SMART magic data
 * New machine command: inquire-credits[space]CUSTOMER#
    - You can send this command via messenger or viber. The system will respond to your trusted number.
