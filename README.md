@@ -1,3 +1,8 @@
+# v40.3.3
+* Added Coins.ph cash-in
+* Amount input for ecash cash-ins
+* Re-arranged services option
+
 # v40.3.1
 * Added Maya cash-in
 * Enhancements & security fixes
