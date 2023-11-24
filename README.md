@@ -1,3 +1,6 @@
+# v40.3.4
+* Add handler for ghost credits caused by loose connection or other hardware issues
+
 # v40.3.3
 * Added Coins.ph cash-in
 * Amount input for ecash cash-ins
