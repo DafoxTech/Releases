@@ -1,3 +1,8 @@
+# v40.4.0
+* Remove exit kiosk button from the Inquire credits page
+* Disable manual loading
+* Fixed loading screen issue on some lower android versions
+  
 # v40.3.4
 * Add handler for ghost credits caused by loose connection or other hardware issues
 
