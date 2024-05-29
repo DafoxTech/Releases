@@ -1,3 +1,21 @@
+# v41.0.0
+**Warning: Before update, make sure that you have a PC ready with adb driver. Android device owner command is now required for security reason. Some machines that has not been setup correctly will be required to set device owner using a PC with adb driver. All of the steps here http://bit.ly/43LZqvu should be followed accordingly.**
+
+- New Kiosk UI
+- New feature: Bills Payment
+   - You need to activate the **Bills Payment** service on your **Online Portal** -> **License & E-loaders** -> **E-loaders**
+   - Set your fee per biller in the **Bill Fees** page
+- 2 available themes: Modern or Classic
+- New Shortcode (**Smart Shortcode**): Free sms shortcode for SMART/TNT/SUN machine sim cards.
+- Kiosk mode new menu options
+    - To show menus, double press the **power button** (1 second interval, make sure that the screen turns off and ON), and then double press the **volume +** button
+    - Sync Settings (_needs internet to show_). This will sync your E-load and bills payment settings from your online portal to your machine.
+- Removed app menus: Set trusted number, Eload Products
+    - To transfer or change trusted number, you can do it from your online portal **License & E-loaders** -> action button **Transfer**
+    - To change or set pricings, you can do it from your online portal **E-Load Pricing** and **Bill Fees**. Then sync it to your machine using the kiosk menu (_double press power and then double press volume +_) **Sync Settings**. 
+    - Other way to popup the **Sync setting menu**, is to send command “Update Machine” using the send command action from the online portal. 
+
+
 # v40.4.0
 * Remove exit kiosk button from the Inquire credits page
 * Disable manual loading
