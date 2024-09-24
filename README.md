@@ -1,4 +1,22 @@
 # v41.0.0
+- Video ads
+- Custom theme (Footer texts, and Kiosk background)
+- Bluetooth thermal printer integration for receipt printing  (Any bluetooth thermal printer models with minimum 58mm paper width are supported).
+       1. Pair your bluetooth printer from android bluetooth settings.
+       2. Tap "Bluetooth Printer" in the DafoxTech Kiosk app menu.
+       3. Enable or check "Print Receipt" from your online portal machine setting.
+       
+- Auto-sync settings when online portal settings changed (Machine need to be connected to internet).
+- Bulk apply settings to all when fees changed.
+- Added 21 new ecash providers like Palawanpay and more ...
+- Remote machine commands now easily accessible sa online portal
+- Wallet checking before transaction.
+- Fixes for the frozen back button on some android versions
+- Instant cash-in via Palawan
+
+** New version of our app: POS mode for manual payment**
+
+# v41.0.0
 **Warning: Before update, make sure that you have a PC ready with adb driver. Android device owner command is now required for security reason. Some machines that has not been setup correctly will be required to set device owner using a PC with adb driver. All of the steps here http://bit.ly/43LZqvu should be followed accordingly.**
 
 - New Kiosk UI
