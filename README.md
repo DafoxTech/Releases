@@ -1,4 +1,4 @@
-# v41.0.0
+# v41.0.7
 - Video ads
 - Custom theme (Footer texts, and Kiosk background)
 - Bluetooth thermal printer integration for receipt printing  (Any bluetooth thermal printer models with minimum 58mm paper width are supported).
