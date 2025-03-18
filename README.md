@@ -1,3 +1,26 @@
+# v41.1.0
+- Support for multiple payment types: Bluetooth, Serial, or Built-in Bill Acceptor (for our custom industrial tablet)
+- Support for multiple printer types: Bluetooth, USB, or TTL over Custom board
+- Support for Pisowifi integration (Our vendo will basically act as wireless sub-vendo for Ado-based pisowifi)
+- View Machine local logs (credits, payments, transactions)
+- Export machine logs to online portal
+- Restore the exported logs
+- Auto capture picture during transaction (Can be viewed from kiosk action menus Export logs -> View locally)
+- New billers added
+- Bills payment update: show favorite biller/s first
+- Ecash warnings on over the counter cashin fee
+- Mini status indicators located at the top-right of the screen: (wifi connection status, sim card connection status, payment module connection status, and datetime)
+- Bugfixes and optimizations
+
+
+APK:
+https://github.com/DafoxTech/Releases/releases/download/android-v41.1.0/com.dafox.eloading-release-41.1.0.apk
+
+
+ESP Firmwares:
+https://drive.google.com/drive/u/3/folders/15MV1-HBYUG6GmJS-wtOwXHqKLJZOpLCz
+
+
 # v41.0.7
 - Video ads
 - Custom theme (Footer texts, and Kiosk background)
