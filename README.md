@@ -1,3 +1,40 @@
+# v41.2.0
+
+1. New eLoad provider: **GOMO**
+2. Support for **TTL printer** _(Select the **ESP firmware** that suits your setup)_
+
+- [Download ESP Firmware (TTL Printer baud: 9600)](https://drive.google.com/file/d/1msiSsga2_f_0BwMwppB1DI5UF2R78_Fv/view?usp=share_link)
+- [Download ESP Firmware (TTL Printer baud: 115200)](https://drive.google.com/file/d/1aIfHwV-9NNczP3S93_UMUj4bOTMaGSp5/view?usp=share_link)
+- [Download ESP Firmware with ICT BA support](https://drive.google.com/file/d/1bwTM_i87gAzERk39eWJV-3Q1Aw-Dw0mC/view?usp=share_link)
+
+3. New **ecash** cash-in providers:
+
+- **EASYTRIP**
+- **ALLEASY**
+- **ALING PURING CREDITS**
+- **BUCOR PADALA**
+- **ICASH**
+- **REPAYPH**
+- **VYBE**
+- **GCASH PERA OUTLET**
+- New providers can be updated via (Sync settings).
+
+4. New **Billers**:
+
+- **Juanhand**
+- **Cashalo**
+- New billers can be updated via (Sync settings).
+
+5. New kiosk app modes:
+
+- **QR** (machine owner need to scan the QR to confirm/process transaction using our mobile app, same process sa 7 eleven )
+- **POS** mode (auto process transaction without prompting for payment)
+
+6. Biller updates (Logo, account number length fixes)
+8. Security enhancements: If you downgrade the kiosk version, you may need to revoke the machine’s activation beforehand.
+9. Auto-dim screen on standby
+
+
 # v41.1.0
 - Support for multiple payment types: Bluetooth, Serial, or Built-in Bill Acceptor (for our custom industrial tablet)
 - Support for multiple printer types: Bluetooth, USB, or TTL over Custom board
