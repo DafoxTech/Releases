@@ -32,7 +32,9 @@
 
 6. Biller updates (Logo, account number length fixes)
 8. Security enhancements: If you downgrade the kiosk version, you may need to revoke the machine’s activation beforehand.
-9. Auto-dim screen on standby
+9. New Machine setting: Auto-dim screen on standby
+10. New Machine setting: Disable favorite billers 
+
 
 
 # v41.1.0
